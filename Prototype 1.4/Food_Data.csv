@@ -1,0 +1,11 @@
+Appetizer,Main Dish,Desert,Vegetables,Meat (Excluding Seafood),Seafood,Japanese,British,Korean,Chinese,Italian,Liquid Based,Pasta/ Noodle Related,Potatos Related,Bread Related,Riced Related,Spicy,Cheese?,Target
+0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Sushi: With Fish
+0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,Peperoni Pizza
+0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,Pasta: Carbonara
+0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,Chicken Fried Rice
+0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,Fish and Chips
+0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,Cheese Burger
+1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,Miso Soup
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,Caesar Salad
+0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,Pork Ramen
+0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,Kimchi Fried Rice
